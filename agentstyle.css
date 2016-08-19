@@ -1,0 +1,156 @@
+.theHeader{
+	background-image: url("Capture.png");
+	padding-top: 25px;
+	padding-bottom: 13px;
+	padding-left: 50px;
+}	
+	
+.theEmployer{	
+	position:absolute;	
+	top:300px;
+	left:400px;
+	height:100em;
+	
+}
+
+#student{
+	height:50px;
+	width:250px;
+}	
+	
+.theStudent{	
+	position:absolute;	
+	top:300px;
+	right:400px;
+	
+}
+
+#employer{
+	height:50px;
+	width:250px;
+}
+	
+#studGate{
+    position: absolute;
+    background-color: #336699;
+    top:200px;
+    right: 600px;
+    width: 300px;
+    padding: 10px;
+
+}
+
+#studJoin{
+    position:absolute;	
+	top:322px; 
+    height:50px;
+	width:250px;
+    left:447px;
+}
+
+#studInfo{
+ 	position: absolute;
+    background-color: #336699;
+    top:200px;
+    right: 600px;
+    width: 300px;
+    padding: 10px;
+}
+	
+#empInfo{
+	position: absolute;
+    background-color: #336699;
+    top:200px;
+    right: 600px;
+    width: 300px;
+    padding: 10px;
+}
+
+#theProfile{
+	position:absolute;	
+	top:300px;
+	left:600px;
+	height:40px;
+	width:200px;
+}
+
+#theList{
+	position:absolute;	
+	top:300px;
+	left:380px;
+	height:40px;
+	width:200px;
+}
+
+#theNews{
+	position:absolute;	
+	top:350px;
+	left:380px;
+	height:40px;
+	width:200px;
+}
+
+#theNots{
+	position:absolute;	
+	top:350px;
+	left:600px;
+	height:40px;
+	width:200px;
+}
+
+#poster{
+	position:absolute;	
+	top:300px;
+	left:380px;
+	height:40px;
+	width:200px;
+	
+}
+
+#viewer{
+	position:absolute;	
+	top:300px;
+	left:600px;
+	height:40px;
+	width:200px;
+}
+
+#appliinfo1{
+	position:absolute;	
+	top:300px;
+	left:380px;
+	height:40px;
+	width:200px;
+}
+
+#appliinfo2{
+	position:absolute;	
+	top:300px;
+	left:600px;
+	height:40px;
+	width:200px;
+}
+
+#appliinfo3{
+	position:absolute;	
+	top:350px;
+	left:380px;
+	height:40px;
+	width:200px;
+}
+
+#appliinfo4{
+	position:absolute;	
+	top:350px;
+	left:600px;
+	height:40px;
+	width:200px;
+}
+
+#done{
+	position:absolute;	
+	top:550px;
+	left:900px;
+	height:40px;
+	width:200px;
+}
