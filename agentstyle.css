@@ -1,7 +1,7 @@
 .theHeader{
 	background-image: url("Capture.png");
-	padding-top: 25px;
-	padding-bottom: 13px;
+	/*padding-top: 25px;
+	padding-bottom: 13px;*/
 	padding-left: 50px;
 }	
 	
@@ -9,8 +9,18 @@
 	position:absolute;	
 	top:300px;
 	left:400px;
-	height:100em;
-	
+	height:100em;	
+}
+
+.form-group{
+	display:inline-block;
+	width: 70%;
+}
+
+.answer{
+	display:inline;
+	float:right;
+	width:45%;
 }
 
 #student{
@@ -51,10 +61,15 @@
 #studInfo{
  	position: absolute;
     background-color: #336699;
-    top:200px;
+    /*top:200px;*/
     right: 600px;
-    width: 300px;
+    width: 50%;
     padding: 10px;
+    margin:auto 0;
+}
+
+#studInfo label{
+	margin-left: 10%;
 }
 	
 #empInfo{
